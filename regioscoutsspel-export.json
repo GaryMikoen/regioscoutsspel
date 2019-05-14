@@ -1,0 +1,307 @@
+{
+  "groups" : [ {
+    "groupName" : "mondriaan",
+    "members" : [ "Willa Graves", "Pheobe Bentley" ]
+  }, {
+    "groupName" : "merhula",
+    "members" : [ "Betsy Byrd", "Khadija Beck", "Patrick Keith", "Cali Magana", "Shelby Griffin", "Loretta Padilla", "Avi Browne", "Ariel Frye", "Suman Mckee", "Jawad Franco", "Cali Magana", "Shelby Griffin", "Loretta Padilla", "Avi Browne", "Ariel Frye", "Suman Mckee", "Jawad Franco" ]
+  }, {
+    "groupName" : "evk",
+    "members" : [ "Aayan Escobar", "Elly Phan", "Jamila Beach", "Alfie-James Benton", "Giorgia Forrest" ]
+  }, {
+    "groupName" : "pag",
+    "members" : [ "Kester Francis", "Jennie Browne", "Elif Richard", "Spencer Bain", "Sneha Mccallum", "Shantelle Kerr" ]
+  }, {
+    "groupName" : "soekwa",
+    "members" : [ "Hugh Workman", "Tamsin Cash", "Dewey Gordon", "Ariella Devlin", "Arlo Haigh", "Bobbie Frank", "Alix Bowers" ]
+  }, {
+    "groupName" : "test",
+    "members" : [ "Khadeejah Bradshaw", "Jarrod Little", "Ayva Kumar", "Maciej Prentice", "Kiya Mcdaniel", "Meghan Bevan", "Annalise Salas", "Adelle Laing", "Chelsy Paul" ]
+  } ],
+  "teams" : [ {
+    "amount" : 9000,
+    "id" : "0",
+    "members" : [ {
+      "groupName" : "mondriaan",
+      "memberName" : "Willa Graves"
+    }, {
+      "groupName" : "mondriaan",
+      "memberName" : "Pheobe Bentley"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Betsy Byrd"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Khadija Beck"
+    }, {
+      "groupName" : "evk",
+      "memberName" : "Aayan Escobar"
+    }, {
+      "groupName" : "evk",
+      "memberName" : "Elly Phan"
+    }, {
+      "groupName" : "pag",
+      "memberName" : "Kester Francis"
+    }, {
+      "groupName" : "pag",
+      "memberName" : "Jennie Browne"
+    } ],
+    "teamName" : "alfa@regio-uh.nl"
+  }, {
+    "amount" : 10000,
+    "id" : "1",
+    "members" : [ {
+      "groupName" : "soekwa",
+      "memberName" : "Hugh Workman"
+    }, {
+      "groupName" : "soekwa",
+      "memberName" : "Tamsin Cash"
+    }, {
+      "groupName" : "test",
+      "memberName" : "Khadeejah Bradshaw"
+    }, {
+      "groupName" : "test",
+      "memberName" : "Jarrod Little"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Patrick Keith"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Cali Magana"
+    }, {
+      "groupName" : "evk",
+      "memberName" : "Jamila Beach"
+    }, {
+      "groupName" : "evk",
+      "memberName" : "Alfie-James Benton"
+    } ],
+    "teamName" : "bravo@regio-uh.nl"
+  }, {
+    "amount" : 10000,
+    "id" : "2",
+    "members" : [ {
+      "groupName" : "pag",
+      "memberName" : "Elif Richard"
+    }, {
+      "groupName" : "pag",
+      "memberName" : "Spencer Bain"
+    }, {
+      "groupName" : "soekwa",
+      "memberName" : "Dewey Gordon"
+    }, {
+      "groupName" : "soekwa",
+      "memberName" : "Ariella Devlin"
+    }, {
+      "groupName" : "test",
+      "memberName" : "Ayva Kumar"
+    }, {
+      "groupName" : "test",
+      "memberName" : "Maciej Prentice"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Shelby Griffin"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Loretta Padilla"
+    } ],
+    "teamName" : "charlie@regio-uh.nl"
+  }, {
+    "amount" : 10000,
+    "id" : "3",
+    "members" : [ {
+      "groupName" : "pag",
+      "memberName" : "Sneha Mccallum"
+    }, {
+      "groupName" : "pag",
+      "memberName" : "Shantelle Kerr"
+    }, {
+      "groupName" : "soekwa",
+      "memberName" : "Arlo Haigh"
+    }, {
+      "groupName" : "soekwa",
+      "memberName" : "Bobbie Frank"
+    }, {
+      "groupName" : "test",
+      "memberName" : "Kiya Mcdaniel"
+    }, {
+      "groupName" : "test",
+      "memberName" : "Meghan Bevan"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Avi Browne"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Ariel Frye"
+    } ],
+    "teamName" : "delta@regio-uh.nl"
+  }, {
+    "amount" : 10000,
+    "id" : "4",
+    "members" : [ {
+      "groupName" : "test",
+      "memberName" : "Annalise Salas"
+    }, {
+      "groupName" : "test",
+      "memberName" : "Adelle Laing"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Suman Mckee"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Jawad Franco"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Cali Magana"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Shelby Griffin"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Loretta Padilla"
+    }, {
+      "groupName" : "merhula",
+      "memberName" : "Avi Browne"
+    } ],
+    "teamName" : "echo@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "5",
+    "teamName" : "post0@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "6",
+    "teamName" : "post1@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "7",
+    "teamName" : "post2@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "8",
+    "teamName" : "post3@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "9",
+    "teamName" : "post4@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "10",
+    "teamName" : "post5@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "11",
+    "teamName" : "post6@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "12",
+    "teamName" : "post7@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "13",
+    "teamName" : "post8@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "14",
+    "teamName" : "post9@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "15",
+    "teamName" : "post10@regio-uh.nl"
+  }, {
+    "amount" : 101000,
+    "id" : "16",
+    "teamName" : "post11@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "17",
+    "teamName" : "post12@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "18",
+    "teamName" : "post13@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "19",
+    "teamName" : "post14@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "20",
+    "teamName" : "post15@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "21",
+    "teamName" : "post16@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "22",
+    "teamName" : "post17@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "23",
+    "teamName" : "post18@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "24",
+    "teamName" : "post19@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "25",
+    "teamName" : "post20@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "26",
+    "teamName" : "post21@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "27",
+    "teamName" : "post22@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "28",
+    "teamName" : "post23@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "29",
+    "teamName" : "post24@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "30",
+    "teamName" : "post25@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "31",
+    "teamName" : "post26@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "32",
+    "teamName" : "post27@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "33",
+    "teamName" : "post28@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "34",
+    "teamName" : "post29@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "35",
+    "teamName" : "post30@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "36",
+    "teamName" : "post31@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "37",
+    "teamName" : "post32@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "38",
+    "teamName" : "post33@regio-uh.nl"
+  }, {
+    "amount" : 100000,
+    "id" : "39",
+    "teamName" : "post34@regio-uh.nl"
+  } ]
+}
